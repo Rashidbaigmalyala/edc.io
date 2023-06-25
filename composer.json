@@ -1,0 +1,13 @@
+{
+    "name": "EDC",
+    "description": "EDC Deploy",
+    "require": {
+      "aws/aws-sdk-php": "^3.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "YourNamespace\\": "src/"
+      }
+    }
+  }
+  
