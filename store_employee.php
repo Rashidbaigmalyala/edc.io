@@ -1,9 +1,6 @@
  <?php
 // Establish a connection to the MySQL database
-$servername = "employee.czswuscwurqq.ap-south-1.rds.amazonaws.com";
-$username = "admin";
-$password = "9110307750";
-$dbname = "employee";
+
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
