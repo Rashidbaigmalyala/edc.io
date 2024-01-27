@@ -1,4 +1,5 @@
 # edc.io
+PROJECT REPORT 
  Introduction
 This report aims to provide an overview of the implementation of the end-to-end website deployment on an EC2 instance with RDS connectivity and storing details in RDS while storing photos in S3. The Employee Data Central web application is designed to collect and store employee information. It provides a user-friendly interface for employees to enter their details, including their name, employee ID, email, role, experience, and tools. The application also allows employees to upload their photos for identification purposes. Once the employee submits the form, the data is stored in a MySQL database.
 Goals of the Project:
